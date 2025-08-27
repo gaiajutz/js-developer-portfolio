@@ -1,78 +1,78 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Gaia Gaijutis",
+  "photo": "https://avatars.githubusercontent.com/u/198772373?v=4",
+  "job": "Estudante de Análise e Desenvolvimento de Sistemas",
+  "location": "Curitiba - PR",
+  "phone": "(41) 99239-0407",
+  "email": "dev.gaiajutz@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Comunicação eficaz",
+      "Inteligência emocional",
       "Trabalho em equipe",
-      "Flexibilidade",
+      "Criatividade",
       "Organização"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
+    "Português/BR",
+    "Inglês (avançado)",
     "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Alemão (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Construindo um jogo do Yu-Gi-Oh no estilo Jo-ken-po",
+      "url": "https://github.com/gaiajutz/js-yugioh-assets",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Flipbook - Gaia's Compendium",
+      "url": "https://github.com/gaiajutz/Flipbook",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Revisora | HouseCricket",
+      "period": "2024 - até o momento",
+      "description": "Responsável pela revisão ortográfica e gramatical e padronização de postagens para redes sociais, blog posts, relatórios de mídia, sites e apresentações de planejamento produzidos pela agência."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Revisora Editorial | Arco Educação",
+      "period": "2024",
+      "description": "Responsável pelo cotejo de arquivos, revisão de prova de impressão de materiais didáticos e cadastro de arquivos em sistemas online."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Revisora | Agência 110",
+      "period": "2023-2024",
+      "description": "Responsável pela revisão ortográfica e gramatical e padronização de postagens para redes sociais, sites, e-books, e-mail marketing, blog posts, materiais ricos, relatórios, planejamentos de mídia, landing pages e campanhas de anúncio produzidas pela agência."
     }
   ]
 }
